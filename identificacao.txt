@@ -1,0 +1,6 @@
+Nome do Aluno: Pedro Emanuel
+RA: 23167567-2
+Turma: A
+Data: 08/10/2026
+Código da Aula: esoft8a-composer
+Atividade: Agenda do campus (Docker Compose)
